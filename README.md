@@ -53,36 +53,6 @@ hobbies: ["Cricket 🏏", "Hackathons ⚡", "Building cool stuff 🚀"]
 
 </div>
 
----
-
-# 🚀 Highlight Projects
-
-### 🚢 Seaguard — Maritime Cyber Defense AI
-> Multi-Agent Reinforcement Learning system for cybersecurity in Maritime OT infrastructure.
-
-✨ Simulated real-world cyberattack environments  
-✨ Cooperative autonomous defense agents  
-✨ Interactive monitoring dashboards  
-
----
-
-### 🔍 CrimeScene AI
-> AI-powered crime investigation assistant using Vision Transformers and LLMs.
-
-🧠 Crime classification using ViT  
-📄 Automated report generation with LLMs  
-⚙️ Modular ML architecture  
-
----
-
-### 🌱 Plant Disease Detection System
-> AI-powered mobile system for real-time plant disease diagnosis.
-
-📱 React Native mobile app  
-☁️ Cloudinary image processing  
-⚡ Node.js + MongoDB backend APIs  
-
----
 
 # 🛠️ Tech Arsenal
 
@@ -104,13 +74,6 @@ hobbies: ["Cricket 🏏", "Hackathons ⚡", "Building cool stuff 🚀"]
 </p>
 
 ---
-
-# 🏆 Achievements
-
-🏅 Top Rank at BITS Hyderabad Hackathon among 500+ participants  
-🏏 Selected for JNTUH Cricket Squad 2025  
-🥈 Runner-up at Udbhav 2025  
-
 ---
 
 # 💬 Developer Quote
