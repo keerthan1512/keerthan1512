@@ -1,124 +1,163 @@
-<h1 align="center">Hi 👋, I'm Keerthan Reddy</h1>
-<h3 align="center">AI Engineer • Full Stack Developer • Cloud Enthusiast</h3>
+<h1 align="center">Hey there 👋 I'm Keerthan Reddy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Applications;Backend+Developer+%7C+Cloud+Engineer;Passionate+about+Scalable+Systems;Always+Learning+New+Technologies+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Scalable+and+Intelligent+Systems;Backend+Developer+with+Cloud+Interests;Turning+Ideas+into+Real+World+Applications+🚀" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/keerthan1512">
+    <img src="https://img.shields.io/github/followers/keerthan1512?label=Followers&style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Backend-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🧠 Who Am I?
 
-- 🎓 Senior Undergraduate at **KMIT**
-- 💻 Full Stack Developer passionate about **AI, Backend Systems & Cloud**
-- 🤖 Building intelligent applications using **Machine Learning & Reinforcement Learning**
-- ⚡ Strong interest in **Distributed Systems, REST APIs & Scalable Architectures**
-- 🏏 Captain of the University Cricket Team
-- 🌱 Currently exploring **Advanced AI Systems & DevOps**
+```yaml
+name: Keerthan Reddy
+located_in: India
+current_role: AI & Full Stack Developer
+education:
+  [
+    "B.Tech Information Technology @ KMIT"
+  ]
 
----
+fields_of_interests:
+  [
+    "Artificial Intelligence",
+    "Backend Engineering",
+    "Cloud Computing",
+    "Distributed Systems",
+    "Cybersecurity"
+  ]
 
-## 💬 Ask Me About
-
-```javascript
-const keerthan = {
-    code: ["Python", "Java", "C++", "JavaScript"],
-    technologies: {
-        frontend: ["React.js", "HTML", "CSS", "Bootstrap"],
-        backend: ["Node.js", "Express.js"],
-        databases: ["MongoDB", "MySQL"],
-        cloud: ["Docker", "MongoDB Atlas"],
-        ai_ml: ["Vision Transformers", "LLMs", "Reinforcement Learning"]
-    },
-    currentFocus: "Building scalable AI-powered systems 🚀"
-};
+currently_learning: ["Advanced AI Systems", "Cloud Infrastructure", "System Design"]
+2026_goals: ["Build impactful AI products", "Contribute to Open Source"]
+hobbies: ["Cricket 🏏", "Hackathons ⚡", "Building cool stuff 🚀"]
 ```
 
 ---
 
-## 🧠 Featured Projects
+# ⚡ What I Do
 
-### 🚢 Seaguard — MARL Cyber Defense for Maritime OT Systems
-- Developed a cybersecurity platform using **Multi-Agent Reinforcement Learning**
-- Simulated cyberattacks in maritime operational systems
-- Built interactive monitoring dashboards for threat analysis
+<div align="center">
 
-### 🔍 CrimeScene Analysis System
-- Built a **Vision Transformer (ViT)** based crime classification system
-- Developed an **LLM-powered report summarizer**
-- Worked with modular ML pipelines and custom datasets
+| 💻 Backend Engineering | 🤖 Artificial Intelligence | ☁️ Cloud & DevOps |
+|---|---|---|
+| Scalable APIs | Vision Transformers | Docker |
+| Node.js & Express | Reinforcement Learning | MongoDB Atlas |
+| System Design | LLM Integrations | Deployment Pipelines |
 
-### 🌱 AI-Powered Plant Disease Management
-- Developed AI-based plant disease detection system
-- Built a **React Native** mobile app for real-time diagnosis
-- Integrated **Cloudinary**, **Node.js**, and **MongoDB**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Highlight Projects
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
-</p>
+### 🚢 Seaguard — Maritime Cyber Defense AI
+> Multi-Agent Reinforcement Learning system for cybersecurity in Maritime OT infrastructure.
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### ☁️ Tools & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-</p>
+✨ Simulated real-world cyberattack environments  
+✨ Cooperative autonomous defense agents  
+✨ Interactive monitoring dashboards  
 
 ---
 
-## 📊 GitHub Stats
+### 🔍 CrimeScene AI
+> AI-powered crime investigation assistant using Vision Transformers and LLMs.
+
+🧠 Crime classification using ViT  
+📄 Automated report generation with LLMs  
+⚙️ Modular ML architecture  
+
+---
+
+### 🌱 Plant Disease Detection System
+> AI-powered mobile system for real-time plant disease diagnosis.
+
+📱 React Native mobile app  
+☁️ Cloudinary image processing  
+⚡ Node.js + MongoDB backend APIs  
+
+---
+
+# 🛠️ Tech Arsenal
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,express,mongodb,mysql,docker,git,github,vscode" />
 </p>
 
 ---
 
-## 🏆 Achievements
+# 📈 GitHub Analytics
 
-- 🥇 Top Rank at **BITS Hyderabad Hackathon** among 500+ participants
-- 🏏 Selected for **JNTUH Cricket Squad 2025**
-- 🥈 Runner-up at **Udbhav 2025**
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+# 🏆 Achievements
+
+🏅 Top Rank at BITS Hyderabad Hackathon among 500+ participants  
+🏏 Selected for JNTUH Cricket Squad 2025  
+🥈 Runner-up at Udbhav 2025  
+
+---
+
+# 💬 Developer Quote
+
+<div align="center">
+
+### “Code is not just syntax — it’s the process of turning ideas into reality.”
+
+</div>
+
+---
+
+# ⚡ Fun Fact
 
 ```python
-while(alive):
-    learn()
-    build()
-    innovate()
+class Life:
+    def __init__(self):
+        self.coffee = True
+        self.code = True
+
+    def daily_routine(self):
+        while self.coffee:
+            self.build()
+            self.learn()
+            self.repeat()
+
+    def build(self):
+        return "Creating intelligent systems 🚀"
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/keerthan-narra" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="mailto:narrakeerthanreddy@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/keerthan-narra">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:narrakeerthanreddy@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<h3 align="center">⭐ Turning Ideas into Intelligent Systems ⭐</h3>
+<h3 align="center">🚀 Building Intelligent Systems for the Future 🚀</h3>
