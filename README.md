@@ -112,12 +112,15 @@ class Life:
   <a href="https://linkedin.com/in/keerthan-narra">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
   <a href="mailto:narrakeerthanreddy@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</p>
 
----
+  <a href="https://instagram.com/keerthan.narra">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 
 
 <h3 align="center">🚀 Building Intelligent Systems for the Future 🚀</h3>
