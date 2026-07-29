@@ -117,9 +117,6 @@ class Life:
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="https://instagram.com/keerthan.narra">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </p>
 
 
