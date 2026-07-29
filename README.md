@@ -49,7 +49,7 @@ hobbies: ["Cricket 🏏", "Hackathons ⚡", "Building cool stuff 🚀"]
 |---|---|---|
 | Scalable APIs | Vision Transformers | Docker |
 | Node.js & Express | Reinforcement Learning | MongoDB Atlas |
-| System Design | LLM Integrations | Deployment Pipelines |
+| System Design | LLM Integrations | Github Actions |
 
 </div>
 
